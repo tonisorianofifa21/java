@@ -1,7 +1,10 @@
 # Readme Y.java
-## Comprueba el número más alto y las veces que se repiten
-## Pega el código en tu entorno y ejecútalo
+## Funcionamiento del programa
+Comprueba el número más alto y las veces que se repiten
+## Cómo ejecutar el programa
+Pega el código en tu entorno y ejecútalo
 ## Código principal
+
 ```j
         int[] d = {4, 7, 2, 9, 2, 5}; //Representan las notas
 
@@ -10,7 +13,8 @@
         int f = d[0]; //Guarda la nota más alta
 ```
 
-## Toni Soriano
+## Autor
+Toni Soriano
 
 
   
